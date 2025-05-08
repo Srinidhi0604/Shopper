@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.review-container{
+    display: flex;
+    flex-direction: column;
+    max-width: 55%;
+    gap: 10px;
+}
+
+.reviewer{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.bgg{
+    height: 50px;
+    width: 50px;
+    background-color: #8e8e8e;
+    border-radius: 50%;
+}
+
+.reviewer img{
+    height: 50px;
+    width: 50px;
+}
+
+.reviewer p{
+    font-family: Poppins;
+    font-size: 18px;
+}
+
+.rating{
+    display: flex;
+    gap: 10px;
+    font-size: 15px;
+}
+
+.rating p{
+    font-weight: 600;
+}
+
+.review-date {
+    font-weight: 500;
+    color: #565959;
+    font-size: 14px;
+}
+
+.details{
+    font-weight: 500;
+    color: #565959;
+    font-size: 14px;
+}
+
+.verified{
+    color: #C45500;
+}
