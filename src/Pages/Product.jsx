@@ -14,7 +14,7 @@ function Product() {
   const {productId} = useParams();
   // useParams o/p is in string format.
   const product = all_products.find((e) => e.id === Number(productId));
-  // console.log(product);
+  console.log(product);
 
   return (
     <div>
