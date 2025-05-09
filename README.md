@@ -75,7 +75,7 @@ src/
 
 ## Contributions Information (Contibute.md)
 
-https://github.com/Devansh051/Shopper/blob/main/contribute.md
+[https://github.com/Devansh051/Shopper/blob/main/contribute.md](https://github.com/Devansh051/Shopper/blob/main/contribute.md)
 ---
 
 ## 📄 License
