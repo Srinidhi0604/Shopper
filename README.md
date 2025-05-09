@@ -74,11 +74,7 @@ src/
 - Add user login/signup and checkout flow
 - Responsive UI for all screen sizes
 
-## 📄 License
 
-This project is licensed under the MIT License. See `LICENSE` for more details.
-
----
 
 ## 🙌 Acknowledgements
 
