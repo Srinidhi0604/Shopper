@@ -73,11 +73,6 @@ src/
 - Add user login/signup and checkout flow
 - Responsive UI for all screen sizes
 
-## Contributions Information (Contibute.md)
-
-[https://github.com/Devansh051/Shopper/blob/main/contribute.md](https://github.com/Devansh051/Shopper/blob/main/contribute.md)
----
-
 ## 📄 License
 
 This project is licensed under the MIT License. See `LICENSE` for more details.
