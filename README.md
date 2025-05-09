@@ -43,9 +43,7 @@ npm start
 ```
 
 Visit: [http://localhost:3000](http://localhost:3000)
-[contribute.md](https://gi[contribute.md](https://github.com/user-attachments/files/20115662/contribute.md)
-thub.com/user-attachments/f[contribute.md](https://github.com/user-attachments/files/20115655/contribute.md)
-iles/20115653/contribute.md)
+
 
 ---
 
@@ -96,4 +94,5 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 
  ## ContriBute
  
-[contribute.md](https://github.com/user-attachments/files/20115728/contribute.md)
+[[contribute.md](https://github.com/user-attachments/files/20115728/contribute.md)
+](https://github.com/Devansh051/Shopper/blob/main/contribute.md)
